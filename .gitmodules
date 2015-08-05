@@ -1,0 +1,12 @@
+[submodule "AroundServer"]
+	path = AroundServer
+	url = git@github.com:kstreee-around/AroundServer.git
+[submodule "AroundWeb"]
+	path = AroundWeb
+	url = git@github.com:kstreee-around/AroundWeb.git
+[submodule "AroundTools"]
+	path = AroundTools
+	url = git@github.com:kstreee-around/AroundTools.git
+[submodule "AroundAndroid"]
+	path = AroundAndroid
+	url = git@github.com:kstreee-around/AroundAndroid.git
