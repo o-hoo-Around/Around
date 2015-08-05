@@ -10,3 +10,6 @@
 [submodule "AroundAndroid"]
 	path = AroundAndroid
 	url = git@github.com:kstreee-around/AroundAndroid.git
+[submodule "AroundiOS"]
+	path = AroundiOS
+	url = git@github.com:kstreee-around/AroundiOS.git
