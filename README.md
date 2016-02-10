@@ -1,3 +1,3 @@
-Around issues repository.
+Around repository for issues and code repositories.
 ============
 
